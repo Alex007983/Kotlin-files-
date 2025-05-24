@@ -1,4 +1,5 @@
 fun main() {
+    // I am using it for git conflict checking, so donot mind anything
     // val = reference is immutable, but the object it points to can be mutable
     // var = reference is mutable (you can reassign it)
 
