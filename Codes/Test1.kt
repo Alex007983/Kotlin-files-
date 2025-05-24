@@ -1,5 +1,6 @@
 // this is my first programe
 fun main() {
+    // to get an conflict I have to change in same line of the file
     // I am using it for git conflict checking, so donot mind anything
     // val = reference is immutable, but the object it points to can be mutable
     // var = reference is mutable (you can reassign it)
